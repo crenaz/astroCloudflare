@@ -63,4 +63,4 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
 
-P.S. Let's see what I can do...(crenaz@2022)
+P.S. Let's see what I can do...(crenaz@14:37PM@11/02/2022)
