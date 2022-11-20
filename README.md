@@ -1,4 +1,5 @@
-So, just as the "About" blurb above says, this is really a simple test for myself to explore CloudFlare's new Pages platform. It accepts a bunch of frameworks and since Astro is one of them, I thought I'd give it go.  Anyways, here's the original readme file for the started template.   
+So, just as the "About" blurb above says, this is really a simple test for myself to explore CloudFlare's new Pages platform. It accepts a bunch of frameworks and since Astro is one of them, I thought I'd give it go.  Anyways, here's the original readme file for the started template.
+(Note to self: convert this repo from npm to pnpm)
 
 # Astro Starter Kit: Blog
 
