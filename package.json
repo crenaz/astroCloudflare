@@ -11,11 +11,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^4.1.1",
-    "@astrojs/mdx": "^0.11.6",
-    "@astrojs/rss": "^1.2.1",
-    "@mdx-js/rollup": "^2.3.0",
-    "astro": "^1.9.2",
-    "rollup": "^3.29.5"
+    "@astrojs/cloudflare": "^7.7.0",
+    "@astrojs/mdx": "^2.1.1",
+    "@astrojs/rss": "^4.0.1",
+    "astro": "^4.0.0"
   }
 }

@@ -1,0 +1,6 @@
+name = "astro-cloudflare"
+compatibility_date = "2024-01-01"
+main = "dist/server/entry.mjs"
+
+[site]
+bucket = "./dist/client"
